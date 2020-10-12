@@ -16,6 +16,42 @@
   font-display: fallback;
 }
 
+@font-face {
+  font-family: 'DNB-Medium-20191103';
+  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Medium-20191103.woff2')
+    format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'DNB-Medium-20200131';
+  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Medium-20200131.woff2')
+    format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'DNB-Bold-20191103';
+  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Bold-20191103.woff2')
+    format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'DNB-Bold-20200131';
+  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Bold-20200131.woff2')
+    format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -61,4 +97,18 @@ h2 {
 }
 .use-DNB-Regular-20200131 {
   font-family: 'DNB-Regular-20200131';
+}
+
+.use-DNB-Medium-20191103 {
+  font-family: 'DNB-Medium-20191103';
+}
+.use-DNB-Medium-20200131 {
+  font-family: 'DNB-Medium-20200131';
+}
+
+.use-DNB-Bold-20191103 {
+  font-family: 'DNB-Bold-20191103';
+}
+.use-DNB-Bold-20200131 {
+  font-family: 'DNB-Bold-20200131';
 }
