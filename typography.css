@@ -1,61 +1,22 @@
 @font-face {
-  font-family: 'DNB-Regular-20191103';
-  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Regular-20191103.woff2')
-    format('woff2');
+  font-family: 'DNB-Regular-2023-03-15';
+  src: url('./fonts/DNB-Regular-2023-03-15.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: fallback;
 }
 
 @font-face {
-  font-family: 'DNB-Regular-20200131';
-  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Regular-20200131.woff2')
-    format('woff2');
+  font-family: 'DNB-Medium-2023-03-15';
+  src: url('./fonts/DNB-Medium-2023-03-15.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: fallback;
 }
 
 @font-face {
-  font-family: 'DNB-Medium-20191103';
-  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Medium-20191103.woff2')
-    format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: 'DNB-Medium-20200131';
-  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Medium-20200131.woff2')
-    format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: 'DNB-Medium-20201018';
-  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Medium-20201018.woff2')
-    format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: 'DNB-Bold-20191103';
-  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Bold-20191103.woff2')
-    format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: 'DNB-Bold-20200310';
-  src: url('https://raw.githubusercontent.com/tujoworker/dnb-font-regular/main/fonts/DNB-Bold-20200310.woff2')
-    format('woff2');
+  font-family: 'DNB-Bold-2023-03-15';
+  src: url('./fonts/DNB-Bold-2023-03-15.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: fallback;
@@ -101,28 +62,14 @@ h2 {
   color: #999;
 }
 
-.use-DNB-Regular-20191103 {
-  font-family: 'DNB-Regular-20191103';
+.use-DNB-Regular-2023-03-15 {
+  font-family: 'DNB-Regular-2023-03-15';
 }
-.use-DNB-Regular-20200131 {
-  font-family: 'DNB-Regular-20200131';
+.use-DNB-Medium-2023-03-15 {
+  font-family: 'DNB-Medium-2023-03-15';
 }
-
-.use-DNB-Medium-20191103 {
-  font-family: 'DNB-Medium-20191103';
-}
-.use-DNB-Medium-20200131 {
-  font-family: 'DNB-Medium-20200131';
-}
-.use-DNB-Medium-20201018 {
-  font-family: 'DNB-Medium-20201018';
-}
-
-.use-DNB-Bold-20191103 {
-  font-family: 'DNB-Bold-20191103';
-}
-.use-DNB-Bold-20200310 {
-  font-family: 'DNB-Bold-20200310';
+.use-DNB-Bold-2023-03-15 {
+  font-family: 'DNB-Bold-2023-03-15';
 }
 p.small {
   font-size: 1rem;
