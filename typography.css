@@ -15,8 +15,8 @@
 }
 
 @font-face {
-  font-family: 'DNB-Medium-2023-03-27';
-  src: url('./fonts/DNB-Medium-2023-03-27.woff2') format('woff2');
+  font-family: 'DNB-Medium-2023-04-21';
+  src: url('./fonts/DNB-Medium-2023-04-21.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: fallback;
@@ -76,8 +76,8 @@ h2 {
 .use-DNB-Medium-2023-03-15 {
   font-family: 'DNB-Medium-2023-03-15';
 }
-.use-DNB-Medium-2023-03-27 {
-  font-family: 'DNB-Medium-2023-03-27';
+.use-DNB-Medium-2023-04-21 {
+  font-family: 'DNB-Medium-2023-04-21';
 }
 .use-DNB-Bold-2023-03-15 {
   font-family: 'DNB-Bold-2023-03-15';
